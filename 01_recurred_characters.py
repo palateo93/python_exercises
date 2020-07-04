@@ -40,3 +40,5 @@ if first_non_recurred:
     print("The first non recurring character is: " + first_non_recurred)
 else:
     print("All characters are recurred")
+
+# commento teo

@@ -41,4 +41,6 @@ if first_non_recurred:
 else:
     print("All characters are recurred")
 
+
 # commento ste
+# commento teo
